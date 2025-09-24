@@ -98,3 +98,10 @@ Aplikasi tersedia di `http://localhost:5173`.
 - Tambahkan unit test (pytest) & komponen test (Vitest/RTL) bila dibutuhkan.
 
 Selamat mencoba! Jika ada penyesuaian lebih lanjut (misal integrasi sistem eksternal sungguhan), struktur kode sudah dipisah per modul sehingga mudah untuk diextend.
+
+## gambar review : 
+
+<img width="1184" height="678" alt="Screenshot_151" src="https://github.com/user-attachments/assets/256f4466-a10d-4eed-8868-2f439050beb8" />
+
+<img width="1184" height="656" alt="Screenshot_152" src="https://github.com/user-attachments/assets/2b7bcaae-286d-4eec-a3d0-71d7b9e2db6d" />
+
