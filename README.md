@@ -16,9 +16,9 @@ A full-stack reference implementation for managing pasien data with RBAC require
 ```bash
 cd backend
 python -m venv .venv
-.venv\Scripts\activate           # PowerShell (Windows)
+.venv\Scripts\activate           
 pip install -r requirements.txt
-copy .env.example .env            # lalu sesuaikan isinya
+copy .env.example .env            
 ```
 
 Isi `.env` minimal:
@@ -97,11 +97,15 @@ Aplikasi tersedia di `http://localhost:5173`.
 - Gunakan `docker-compose` untuk orkestrasi PostgreSQL + FastAPI + Vite proxy.
 - Tambahkan unit test (pytest) & komponen test (Vitest/RTL) bila dibutuhkan.
 
-Selamat mencoba! Jika ada penyesuaian lebih lanjut (misal integrasi sistem eksternal sungguhan), struktur kode sudah dipisah per modul sehingga mudah untuk diextend.
+## role based :
+email : ariqluthfirifqi@gmail.com = dokter
+email : mugiwarassae03@gmail.com = admin
 
 ## gambar review : 
 
 <img width="1184" height="678" alt="Screenshot_151" src="https://github.com/user-attachments/assets/256f4466-a10d-4eed-8868-2f439050beb8" />
+
+<br/>
 
 <img width="1184" height="656" alt="Screenshot_152" src="https://github.com/user-attachments/assets/2b7bcaae-286d-4eec-a3d0-71d7b9e2db6d" />
 
