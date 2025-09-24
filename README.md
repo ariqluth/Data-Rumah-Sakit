@@ -1,4 +1,4 @@
-﻿# Rumah Sakit Management Platform
+﻿# Rumah Sakit Management
 
 A full-stack reference implementation for managing pasien data with RBAC requirements.
 
@@ -108,5 +108,6 @@ Aplikasi tersedia di `http://localhost:5173`.
 <br/>
 
 <img width="1184" height="656" alt="Screenshot_152" src="https://github.com/user-attachments/assets/2b7bcaae-286d-4eec-a3d0-71d7b9e2db6d" />
+
 
 
