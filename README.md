@@ -98,8 +98,8 @@ Aplikasi tersedia di `http://localhost:5173`.
 - Tambahkan unit test (pytest) & komponen test (Vitest/RTL) bila dibutuhkan.
 
 ## role based :
-email : ariqluthfirifqi@gmail.com = dokter
-email : mugiwarassae03@gmail.com = admin
+- email : ariqluthfirifqi@gmail.com = dokter
+- email : mugiwarassae03@gmail.com = admin
 
 ## gambar review : 
 
@@ -108,4 +108,5 @@ email : mugiwarassae03@gmail.com = admin
 <br/>
 
 <img width="1184" height="656" alt="Screenshot_152" src="https://github.com/user-attachments/assets/2b7bcaae-286d-4eec-a3d0-71d7b9e2db6d" />
+
 
